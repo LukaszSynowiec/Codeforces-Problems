@@ -1,0 +1,9 @@
+# Executables
+*.exe
+*.out
+*.app
+
+.codelite/
+template.cpp
+input
+main
