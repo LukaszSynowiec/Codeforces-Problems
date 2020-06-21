@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
+#include <algorithm>
 using namespace std;
 
 int main()
@@ -14,6 +14,7 @@ int main()
         cout << s;
     else {
         vector<int> x;
+            
         for(int i = 0; i < s.size(); i += 2) {
             int y = (int)s[i] - 48;
             x.push_back(y);
