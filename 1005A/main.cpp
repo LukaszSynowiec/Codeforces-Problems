@@ -3,6 +3,9 @@
 using namespace std;
 int main()
 {
+
+
+
 	int x;
 	cin>>x;
 	int tab[x];
@@ -37,4 +40,3 @@ int main()
 }
 	return 0;
 }
-
