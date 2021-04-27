@@ -3,9 +3,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <algorithm>
-using namespace std;
 
+using namespace std;
 int main()
 {
     string s;

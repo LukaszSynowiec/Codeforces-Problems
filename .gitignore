@@ -1,9 +1,10 @@
-# Executables
 *.exe
-*.out
-*.app
-
 .codelite/
 template.cpp
 input
+input.txt
 main
+*.layout
+*.cbp
+*.o
+*.depend

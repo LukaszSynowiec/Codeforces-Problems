@@ -4,6 +4,7 @@
 using namespace std;
 int SUM_OTHER(int tab[],int size)
 {
+	
 	int sum=0;
 	for(int i=1;i<size;i++)
 	{
@@ -22,7 +23,6 @@ int main()
 		int students,maxScore;
 		cin>>students>>maxScore;
 		int tab[students];
-		int sum=0;
 		for(int i=0;i<students;i++)
 		{
 			cin>>tab[i];
